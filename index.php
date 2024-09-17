@@ -24,11 +24,11 @@ $usuarios = mysqli_query($con, $query);
 
     <link href="css/estilos.css" rel="stylesheet">
 
-    <title>CRUD PHP Y MYSQL</title>
+    <title>CRUD PHP Y MYSQL Magali Castañeda Parcero Martinez</title>
 </head>
 
 <body>
-    <h1 class="text-center">CRUD - contactos</h1>
+    <h1 class="text-center">CRUD - Contactos por Magali Castañeda Parcero Martinez, Matrícula: 212h17140</h1>
 
     <div class="container">
     <div class="row">
